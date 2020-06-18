@@ -7,3 +7,5 @@ The aim of this project is to develop tools for supporting care planning in NHS 
 These tools will allow NHS Grampian to see how the COVID-19 outbreak develops, and respond to changes as quickly as possible to ensure there are beds, staff, and equipment where they are needed for both COVID-19 and non-COVID-19 patients.
 
 This project is a collaboration between the Aberdeen Centre for Health Data Science and the NHS Grampian Health Intelligence team. 
+
+Note: this repository is private for now, while we are applying for data access permissions. We will eventually make it public so we can share with other NHS trusts in Scotland and the rest of the UK.
