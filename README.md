@@ -1,5 +1,7 @@
 ## Integrating real time surveillance and dynamic modelling of COVID-19 in Grampian to inform an adaptive healthcare response
 
+Research team: Dr Dimitra Blana, Dr Edward Chadwick, Dr Jessica Butler, Dr Mintu Nath, Dr Graham Osler, Ms Katie Wilde, Ms Susan Webb, Professor Corri Black, Dr Emmanuel Okpo, Ms Jillian Evans
+
 The aim of this project was to provide timely information on the local progression of COVID-19 to NHS Grampian to enable the optimal provision of additional resources to deal with changing clinical demand. 
 
 We have developed a variety of monitoring and modelling tools:
@@ -9,4 +11,4 @@ We have developed a variety of monitoring and modelling tools:
 * [An epidemiological model](https://github.com/AbdnCHDS/grampian_covid19_modelling/blob/master/NHSG_SEIR.xlsx) using the same compartments as Public Health Scotland, but estimating the local parameters directly from Grampian data. This model is in daily use by NHS Grampian to estimate future demand for hospital beds.
 
 Using the tools we have developed, we hope to continue providing essential information to NHS Grampian for the duration of the pandemic.
-This project is a collaboration between the Aberdeen Centre for Health Data Science and the NHS Grampian Health Intelligence team. It was funded by [NHS Grampian Endowments](https://www.nhsgcharities.com/). 
+This project is a collaboration between the [Aberdeen Centre for Health Data Science](https://www.abdn.ac.uk/achds/) and the NHS Grampian Health Intelligence team. It was funded by [NHS Grampian Endowments](https://www.nhsgcharities.com/).
